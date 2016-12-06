@@ -1,5 +1,6 @@
 # GsonXmlHelper
-GsonXmlHelper is a little library to work with API's and WebServices that return XML structure and you can consume it into your application.
+GsonXmlHelper is a little library to work with API's and WebServices that return XML structure and you can consume it into your application. 
+This library is build with Java 1.8 JDK
 
 # Content
 This little library have two classes that will help the use of XML parsing without declaring SerializedName in your attributes, it just directly maps to your class all the values, you just take care that you have to send from your database query the same name of your class attributes.
