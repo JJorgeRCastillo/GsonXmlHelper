@@ -5,7 +5,7 @@ This library is build with Java 1.8 JDK
 # Content
 This little library have two classes that will help the use of XML parsing without declaring SerializedName in your attributes, it just directly maps to your class all the values, you just take care that you have to send from your database query the same name of your class attributes.
 * The first class is: 
-ListGeneric, this class allows you to create a generic type of objectos from your domain.
+ListGeneric, this class allows you to create a generic type of objects from your domain.
 * The second class is: 
 GsonXmlHelper, this class makes all the work behind the scenes to map your XML nodes to your object dynamically.
 
